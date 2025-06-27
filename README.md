@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SwarnKashyap
-- 👀 I’m interested in Web devlopment
-- 🌱 I’m currently learning MERN
+- 👀 I’m interested in AI, Deep Learning , Machine learning 
+- 🌱 I'm Skilled in data EDA , Model building ..
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 You can reach me on email - swarn.kashyap.pb@gmail.com
 
